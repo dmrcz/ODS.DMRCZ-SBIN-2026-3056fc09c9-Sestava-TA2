@@ -6,9 +6,8 @@
 #                                                       #
 #########################################################
 
-#!/bin/bash
 
-# Můj zdrojový kód
+# Zdrojový kód ODS.DMRCZ
 
     sudo chown -R www-data:www-data /var/www
     sudo chown -R www-data:www-data /usr/local
